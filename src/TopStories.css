@@ -1,0 +1,29 @@
+.top-stories {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.top-stores h1 {
+  color: #333;
+}
+
+.top-stories ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.top-stories li {
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.top-stores a {
+  color: #1a0dab;
+  text-decoration: none;
+}
+
+.top-stories a:hover {
+  text-decoration: underline;
+}
